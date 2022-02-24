@@ -1,6 +1,10 @@
-# homebrew-pipeforce
+# PIPEFORCE Homebrew Tap Repo
 
-## Install pipeforce-cli
+## Prerequisites
+Install Hombrew on your Mac:
+https://brew.sh/
+
+## Install pipeforce-cli using brew
 ```
 brew tap logabit/pipeforce
 brew install pipeforce-cli
